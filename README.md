@@ -38,6 +38,10 @@ pip install yfinance pandas numpy scikit-learn tensorflow matplotlib
    ```
 2.	Install the required dependencies as listed above.
 3.	Ensure you have an internet connection to fetch data from Yahoo Finance.
+
+OR
+
+Run on Google Colab
 ## Customization
 
 You can easily tweak each model’s hyperparameters by editing the corresponding notebook. Below are the key parameters and where to find them:
